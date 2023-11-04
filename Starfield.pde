@@ -18,7 +18,7 @@ void draw()
   fill(0);
   textAlign(CENTER,CENTER); 
   textSize(25);
-  text("Great game with absolutely not issues at all", 250, 450);
+  text("Great game with absolutely no issues at all", 250, 450);
   text("(I was bored ok)", 250, 480);
   for(int i = 0; i < balls.length - 10; i++)
   {
